@@ -1,7 +1,7 @@
 YADC [![Build Status](https://travis-ci.org/klaemo/docker-couchdb.svg?branch=master)](https://travis-ci.org/klaemo/docker-couchdb)
 ===
 
-This fork simply removes the volume declaration
+This fork simply removes the volume declaration in 1.6.1
 
 Yet Another Dockerized CouchDB.
 Put the couch in a docker container and ship it anywhere.
